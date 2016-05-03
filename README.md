@@ -6,3 +6,5 @@ sends you sms when some stream starts
 2. set desired accounts
 3. run with node
 4. enjoy
+you will end up with something like 
+![result](http://i.imgur.com/eNIsLW7.jpg "This")
